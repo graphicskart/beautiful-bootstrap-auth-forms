@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/beautiful-bootstrap-auth-form/static/css/main.a9b692a7.chunk.css"
   },
   {
-    "revision": "1e10c087be1186b70b687ec6c843be80",
+    "revision": "8fca30ddf12cdde55c3735a986104cad",
     "url": "/beautiful-bootstrap-auth-form/index.html"
   }
 ];
