@@ -1,0 +1,92 @@
+.form-container {
+  min-height: 300px;
+  max-height: 600px;
+}
+
+.form-container .title {
+  margin-top: 40px;
+}
+
+.form-container .title-message {
+  margin-top: 20px;
+}
+
+.google-btn,
+.or-text {
+  margin-top: 30px;
+}
+
+.or-text {
+  color: #bbb;
+  font-size: 12px;
+}
+
+.login-btn,
+.login-btn:hover {
+  margin-top: 20px;
+  background: #6BECB7;
+  border-color: #6BECB7;
+  color: #000;
+}
+
+.login-btn-separator {
+  margin-top: 30px;
+  border-bottom: 1px solid #bbb;
+}
+
+.signup-link {
+  margin-top: 20px;
+}
+
+.left-block {
+  background: #6BECB7;
+}
+
+.outer-box {
+  box-shadow: 0px 0px 30px #4b514e;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.top-container {
+}
+
+.main-container {
+  min-height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+a {
+  color: #000;
+}
+
+.bg {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0;
+}
+.bg .inner-left {
+  background: #6BECB7;
+  height: 100%;
+}
+
+.description {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.description h3 {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.description p {
+  font-size: 14px;
+}
