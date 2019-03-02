@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/beautiful-bootstrap-auth-form/precache-manifest.5bd523928bfdab126ca94d9daff3d025.js"
+  "/beautiful-bootstrap-auth-forms/precache-manifest.327d3f1073ffe5f03a888afc260eb83b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/beautiful-bootstrap-auth-form/index.html", {
+workbox.routing.registerNavigationRoute("/beautiful-bootstrap-auth-forms/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,14 +1,14 @@
 {
-  "main.css": "/beautiful-bootstrap-auth-form/static/css/main.a9b692a7.chunk.css",
-  "main.js": "/beautiful-bootstrap-auth-form/static/js/main.cc6a3082.chunk.js",
-  "main.js.map": "/beautiful-bootstrap-auth-form/static/js/main.cc6a3082.chunk.js.map",
-  "runtime~main.js": "/beautiful-bootstrap-auth-form/static/js/runtime~main.e4de480b.js",
-  "runtime~main.js.map": "/beautiful-bootstrap-auth-form/static/js/runtime~main.e4de480b.js.map",
-  "static/js/2.4de6ec4f.chunk.js": "/beautiful-bootstrap-auth-form/static/js/2.4de6ec4f.chunk.js",
-  "static/js/2.4de6ec4f.chunk.js.map": "/beautiful-bootstrap-auth-form/static/js/2.4de6ec4f.chunk.js.map",
-  "index.html": "/beautiful-bootstrap-auth-form/index.html",
-  "precache-manifest.5bd523928bfdab126ca94d9daff3d025.js": "/beautiful-bootstrap-auth-form/precache-manifest.5bd523928bfdab126ca94d9daff3d025.js",
-  "service-worker.js": "/beautiful-bootstrap-auth-form/service-worker.js",
-  "static/css/main.a9b692a7.chunk.css.map": "/beautiful-bootstrap-auth-form/static/css/main.a9b692a7.chunk.css.map",
-  "static/media/logo.png": "/beautiful-bootstrap-auth-form/static/media/logo.d190d263.png"
+  "main.css": "/beautiful-bootstrap-auth-forms/static/css/main.a9b692a7.chunk.css",
+  "main.js": "/beautiful-bootstrap-auth-forms/static/js/main.cc6a3082.chunk.js",
+  "main.js.map": "/beautiful-bootstrap-auth-forms/static/js/main.cc6a3082.chunk.js.map",
+  "runtime~main.js": "/beautiful-bootstrap-auth-forms/static/js/runtime~main.0148ec25.js",
+  "runtime~main.js.map": "/beautiful-bootstrap-auth-forms/static/js/runtime~main.0148ec25.js.map",
+  "static/js/2.4de6ec4f.chunk.js": "/beautiful-bootstrap-auth-forms/static/js/2.4de6ec4f.chunk.js",
+  "static/js/2.4de6ec4f.chunk.js.map": "/beautiful-bootstrap-auth-forms/static/js/2.4de6ec4f.chunk.js.map",
+  "index.html": "/beautiful-bootstrap-auth-forms/index.html",
+  "precache-manifest.327d3f1073ffe5f03a888afc260eb83b.js": "/beautiful-bootstrap-auth-forms/precache-manifest.327d3f1073ffe5f03a888afc260eb83b.js",
+  "service-worker.js": "/beautiful-bootstrap-auth-forms/service-worker.js",
+  "static/css/main.a9b692a7.chunk.css.map": "/beautiful-bootstrap-auth-forms/static/css/main.a9b692a7.chunk.css.map",
+  "static/media/logo.png": "/beautiful-bootstrap-auth-forms/static/media/logo.d190d263.png"
 }
