@@ -24,8 +24,8 @@
 .login-btn,
 .login-btn:hover {
   margin-top: 20px;
-  background: #6BECB7;
-  border-color: #6BECB7;
+  background: #6becb7;
+  border-color: #6becb7;
   color: #000;
 }
 
@@ -39,7 +39,7 @@
 }
 
 .left-block {
-  background: #6BECB7;
+  background: transparent;
 }
 
 .outer-box {
@@ -63,14 +63,14 @@ a {
 }
 
 .bg {
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 0;
 }
 .bg .inner-left {
-  background: #6BECB7;
+  background: #6becb7;
   height: 100%;
 }
 
