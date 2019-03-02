@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/beautiful-bootstrap-auth-forms/static/js/runtime~main.0148ec25.js"
   },
   {
-    "revision": "cc6a3082d8565e71a0a2",
-    "url": "/beautiful-bootstrap-auth-forms/static/js/main.cc6a3082.chunk.js"
+    "revision": "220a4c8fa3d86d97a43d",
+    "url": "/beautiful-bootstrap-auth-forms/static/js/main.220a4c8f.chunk.js"
   },
   {
-    "revision": "4de6ec4f26318c298dad",
-    "url": "/beautiful-bootstrap-auth-forms/static/js/2.4de6ec4f.chunk.js"
+    "revision": "787de5b5e76bbf3556b8",
+    "url": "/beautiful-bootstrap-auth-forms/static/js/2.787de5b5.chunk.js"
   },
   {
-    "revision": "cc6a3082d8565e71a0a2",
+    "revision": "220a4c8fa3d86d97a43d",
     "url": "/beautiful-bootstrap-auth-forms/static/css/main.a9b692a7.chunk.css"
   },
   {
-    "revision": "c93c24ca501bc428dff2fd24cf45cefd",
+    "revision": "09dcb510f0dfdf344decd85d66af3523",
     "url": "/beautiful-bootstrap-auth-forms/index.html"
   }
 ];
