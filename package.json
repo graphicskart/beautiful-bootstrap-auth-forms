@@ -2,7 +2,7 @@
   "name": "beautiful-bootstrap-auth-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://graphicskart.github.io/beautiful-bootstrap-auth-form",
+  "homepage": "https://graphicskart.github.io/beautiful-bootstrap-auth-forms",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
